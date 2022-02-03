@@ -1,1 +1,1 @@
-Commit only part of a project in Git
+Commit only part of the project in Git
